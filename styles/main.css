@@ -12,6 +12,7 @@ main{
 .main-info{
     width: 100%;
     max-width: 570px;
+    margin-left: 50px;
 }
 
 .main-info p{
